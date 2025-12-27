@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="xslt-test.xsl"?>
+<manuscript-metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<id>bblc0061</id>
+		<title>Diccionario Pokonchí</title>
+		<location>Penn</location>
+		<collection>Berendt-Brinton</collection>
+	</record>
+	<record>
+		<id>bblc0062</id>
+		<title>Doctrina christiana en pocomchi</title>
+		<location>Penn</location>
+		<collection>Berendt-Brinton</collection>
+	</record>
+	<record>
+		<id>bblc0063</id>
+		<title>Sermones y platicas en castellano y pocomchi</title>
+		<location>Penn</location>
+		<collection>Berendt-Brinton</collection>
+	</record>
+	<record>
+		<id>bblc0064</id>
+		<title>Platica en lengua pocomchi</title>
+		<location>Penn</location>
+		<collection>Berendt-Brinton</collection>
+	</record>
+	<record>
+		<id>bblc0065</id>
+		<title>Platicas en lengua pocomchi</title>
+		<location>Penn</location>
+		<collection>Berendt-Brinton</collection>
+	</record>
+	<record>
+		<id>bblc0065b</id>
+		<title>Sermon de nuestra señora del Santissimo Rosario</title>
+		<location>Penn</location>
+		<collection>Berendt-Brinton</collection>
+	</record>
+	<record>
+		<id>bblc0066</id>
+		<title>Doctrina christiana en pocomchi</title>
+		<location>Penn</location>
+		<collection>Berendt-Brinton</collection>
+	</record>
+	<record>
+		<id>bblc0067</id>
+		<title>Confesonario en castellano y poconchi (Tactic)</title>
+		<location>Penn</location>
+		<collection>Berendt-Brinton</collection>
+	</record>
+	<record>
+		<id>bblc0068</id>
+		<title>Libro en pocomchi y kekchi</title>
+		<location>Penn</location>
+		<collection>Berendt-Brinton</collection>
+	</record>
+	<record>
+		<id>bblc0081</id>
+		<title>Doctrina christiana en castellano, kekchi, pocomchi</title>
+		<location>Penn</location>
+		<collection>Berendt-Brinton</collection>
+	</record>
+	<record>
+		<id>bblc0088</id>
+		<title>Vocabulario de pocomam</title>
+		<location>Penn</location>
+		<collection>Berendt-Brinton</collection>
+	</record>
+	<record>
+		<id>bblc0089</id>
+		<title>Vocabulario de pocomam de Mita</title>
+		<location>Penn</location>
+		<collection>Berendt-Brinton</collection>
+	</record>
+	<record>
+		<id>bblc0090</id>
+		<title>Expedition nach Acasaguastlan und Jilotepec</title>
+		<location>Penn</location>
+		<collection>Berendt-Brinton</collection>
+	</record>
+	<record>
+		<id>ggmm0231</id>
+		<title>Arte de la lengua Pokonchí</title>
+		<location>Princeton</location>
+		<collection>Garrett-Gates</collection>
+	</record>
+	<record>
+		<id>ggmm0232</id>
+		<title>Sermones</title>
+		<location>Princeton</location>
+		<collection>Garrett-Gates</collection>
+	</record>
+	<record>
+		<id>ggmm0234</id>
+		<title>Sermonario en Pokonchí</title>
+		<location>Princeton</location>
+		<collection>Garrett-Gates</collection>
+	</record>
+	<record>
+		<id>ggmm0235</id>
+		<title>Sermonario en Pokonchí</title>
+		<location>Princeton</location>
+		<collection>Garrett-Gates</collection>
+	</record>
+	<record>
+		<id>ggmm0242</id>
+		<title>Título del barrio de Santa Ana</title>
+		<location>Princeton</location>
+		<collection>Garrett-Gates</collection>
+	</record>
+	<record>
+		<id>ggmm0251</id>
+		<title>Vocabulario de los idiomas Chiorti y Pocomane</title>
+		<location>Princeton</location>
+		<collection>Garrett-Gates</collection>
+	</record>
+	<record>
+		<id>bfma0050</id>
+		<title>Vocabulario de nombres ...</title>
+		<location>BnF</location>
+		<collection>Manuscrits americains</collection>
+	</record>
+	<record>
+		<id>bfma0051</id>
+		<title>Vidas de santos en forma de homelias</title>
+		<location>BnF</location>
+		<collection>Manuscrits americains</collection>
+	</record>
+	<record>
+		<id>bfma0052</id>
+		<title>Platica de los principales misterios de la religion</title>
+		<location>BnF</location>
+		<collection>Manuscrits americains</collection>
+	</record>
+	<record>
+		<id>bfma0053</id>
+		<title>Arte breve ...</title>
+		<location>BnF</location>
+		<collection>Manuscrits americains</collection>
+	</record>
+	<record>
+		<id>bfmm0426</id>
+		<title>Confessionel en langue Pocoman</title>
+		<location>BnF</location>
+		<collection>Manuscrits mexicains</collection>
+	</record>
+	<record>
+		<id>hutl0000</id>
+		<title>Sermones</title>
+		<location>Harvard</location>
+		<collection>Tozzer</collection>
+	</record>
+	<record>
+		<id>bywg5302</id>
+		<title>Vocabulario de solo los nombres</title>
+		<location>BYU</location>
+		<collection>William Gates papers</collection>
+	</record>
+	<record>
+		<id>bywg5304</id>
+		<title>Vocabulario [adverbs, prep, part]</title>
+		<location>BYU</location>
+		<collection>William Gates papers</collection>
+	</record>
+	<record>
+		<id>bywg5504</id>
+		<title>Pocomchí vocabulary</title>
+		<location>BYU</location>
+		<collection>William Gates papers</collection>
+	</record>
+	<record>
+		<id>bywg5505</id>
+		<title>Fragment of a Pokomchi Arte</title>
+		<location>BYU</location>
+		<collection>William Gates papers</collection>
+	</record>
+	<record>
+		<id>bywg5501</id>
+		<title>Vocabulario Pocomchi</title>
+		<location>BYU</location>
+		<collection>William Gates papers</collection>
+	</record>
+	<record>
+		<id>bywg9103</id>
+		<title>Will in Pocomchí</title>
+		<location>BYU</location>
+		<collection>William Gates papers</collection>
+	</record>
+	<record>
+		<id>bywg8901</id>
+		<title>Platica en lengua Pocomchi</title>
+		<location>BYU</location>
+		<collection>William Gates papers</collection>
+	</record>
+	<record>
+		<id>bywg4207</id>
+		<title>Estudios y vocabularios, Pokomam y Chorti</title>
+		<location>BYU</location>
+		<collection>William Gates papers</collection>
+	</record>
+	<record>
+		<id>bywg8806</id>
+		<location>BYU</location>
+		<collection>William Gates papers</collection>
+	</record>
+	<record>
+		<id>bywg9005</id>
+		<location>BYU</location>
+		<collection>William Gates papers</collection>
+	</record>
+	<record>
+		<id>bywg5207</id>
+		<location>BYU</location>
+		<collection>William Gates papers</collection>
+	</record>
+</manuscript-metadata>
