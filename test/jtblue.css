@@ -15,6 +15,10 @@ header {
 	text-align: left;
 }
 
+header.h2 {
+	font-variant-caps: small-caps;
+}
+
 ul.topnav {
 	display: flex;
 	list-style-type: none;
@@ -27,9 +31,12 @@ ul.topnav {
 
 ul.topnav li button {
 	display: block;
-	color: #ffffcc;
-	background-color: #806040;
+	color: #ffffff;
+	background-color: #004080;
 	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #bbffff;
 	padding: 14px 16px;
 	text-decoration: none;
 	font-weight: bold;
@@ -37,11 +44,15 @@ ul.topnav li button {
 }
 
 ul.topnav li button:hover {
+	color: #004080;
 	background-color: #bbffff;
-	color: black;
 }
 
 ul.topnav li a:link {
 	text-decoration: none;
 }
 
+dummy {
+	color: color: #ffffcc;
+	background-color: #806040;
+}
