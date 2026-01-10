@@ -27,6 +27,7 @@ header h2 {
 
 ul.topnav {
 	display: flex;
+	flex-wrap: wrap;
 	list-style-type: none;
 	margin: 0px 15px;
 	padding: 5px;
