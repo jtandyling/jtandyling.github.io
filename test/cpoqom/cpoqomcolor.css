@@ -19,6 +19,7 @@ ul.topnav li button {
 	color: black;
 	background-color: #d6a867;
 	border-color: black;
+	border-width: 2px;
 }
 
 ul.topnav li button:hover {
