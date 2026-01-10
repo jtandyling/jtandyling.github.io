@@ -8,7 +8,7 @@ body {
 }
 
 header {
-	background-color: #f0e8d0;
+	color: black;
 }
 
 ul.topnav {
@@ -18,11 +18,11 @@ ul.topnav {
 ul.topnav li button {
 	color: black;
 	background-color: #d6a867;
+	border-color: black;
 }
 
 ul.topnav li button:hover {
 	background-color: #f0e8d0;
-	color: black;
 }
 
 ul.topnav li a:link {
