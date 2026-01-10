@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+	font-family: Tahoma;
+}
+
+body {
+	background-color: #f0e8d0;
+}
+
+header {
+	background-color: #f0e8d0;
+}
+
+ul.topnav {
+	background-color: #d6a867;
+}
+
+ul.topnav li button {
+	color: black;
+	background-color: #d6a867;
+}
+
+ul.topnav li button:hover {
+	background-color: #f0e8d0;
+	color: black;
+}
+
+ul.topnav li a:link {
+}
+
