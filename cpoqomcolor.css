@@ -8,6 +8,11 @@ body {
 }
 
 header {
+	color: #8c5f26;
+}
+
+.navbar {
+	background-color: #d6a867;
 	color: black;
 }
 
