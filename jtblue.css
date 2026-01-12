@@ -68,7 +68,7 @@ img.center {
 	height: auto;
 }
 
-#mainbody {
+div.mainbody {
 	display: block;
 	margin: 10px 10px;
 	padding: 10px;
@@ -77,22 +77,22 @@ img.center {
 	height: auto;
 }
 
-#mainbody h1, h2, h3 {
+div.mainbody h1, h2, h3 {
 	color: #004080;
 	text-align: left;
 }
 
-#mainbody p {
+div.mainbody p {
 	line-height: 1.5;
 	font-size: medium;
 }
 
-#mainbody p.imgcred {
+div.mainbody p.imgcred {
 	font-size: smaller;
 	font-style: italic;
 }
 
-#mainbody ul li {
+div.mainbody ul li {
 	margin: 12px 0px;
 	line-height: 1.5;
 }
