@@ -77,7 +77,7 @@ div.mainbody {
 	height: auto;
 }
 
-div.mainbody h2 {
+div.mainbody h1, h2, h3 {
 	color: #004080;
 	text-align: left;
 }
@@ -90,6 +90,16 @@ div.mainbody p {
 div.mainbody p.imgcred {
 	font-size: smaller;
 	font-style: italic;
+}
+
+div.mainbody ul li {
+	margin: 12px 0px;
+	line-height: 1.5;
+}
+
+.dates {
+	font-weight: bold;
+	color: #004080;
 }
 
 dummy {

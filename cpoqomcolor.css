@@ -1,6 +1,6 @@
 * {
 	box-sizing: border-box;
-	font-family: Tahoma;
+	/* font-family: Tahoma; Save this for the full Colonial Poqom website */
 }
 
 body {
@@ -28,3 +28,7 @@ ul.topnav li button:hover {
 ul.topnav li a:link {
 }
 
+div.mainbody h1, h2, h3 {
+	color: #8c5f26;
+	text-align: left;
+}
