@@ -12,8 +12,8 @@ header {
 }
 
 .navbar {
-	background-color: #d6a867;
 	color: black;
+	background-color: #d6a867;
 }
 
 ul.topnav {
@@ -27,6 +27,7 @@ ul.topnav li button {
 }
 
 ul.topnav li button:hover {
+	color: black;
 	background-color: #f0e8d0;
 }
 

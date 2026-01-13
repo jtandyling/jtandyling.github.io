@@ -102,6 +102,13 @@ div.mainbody ul li {
 	color: #004080;
 }
 
+iframe.pdf {
+	margin: 20px 20px;
+	width: 1000px;
+	max-width: 97%;
+	height: 500px;
+}
+
 dummy {
 	color: color: #ffffcc;
 	background-color: #806040;
