@@ -59,6 +59,7 @@ ul.topnav li a:link {
 	text-decoration: none;
 }
 
+/*	To make this work I need a containing div for the footer
 footer {
 	position: absolute;
 	left: 0;
@@ -77,6 +78,7 @@ footer {
 .footer a:link {
 	color: #ffffff;
 }
+*/
 
 img.center {
 	display: block;
