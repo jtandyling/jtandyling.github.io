@@ -1,19 +1,50 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html>
 <head>
-	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" /> <!--Adjusts scaling for phones and tablets-->
 	<title>Colonial Poqom Manuscript Project</title>
-	<link rel="stylesheet" href="jtlweb.css">
-	<!--
-		<style>
-			ul {
-				padding-bottom: 12px;
-			}
-		</style>
-	-->
+	
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="/jtblue.css">
+	<link rel="stylesheet" href="/cpoqomcolor.css">
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			$("#headers").load("cpheaders.html");
+		});
+	</script>
 </head>
+
 <body>
-test
+<div id="headers">
+	<h1>Colonial Poqom Manuscript Project</h1>
+	<ul>
+		<li><a href="index.html">About</a></li>
+		<li><a href="manuscripts.html">Manuscripts</a></li>
+		<li><a href="updates.html">Updates</a></li>
+	</ul>
+</div>
+
+<div id="mainbody" class="mainbody">
+	<h2>About</h2>
+	
+	<p>The Colonial Poqom Manuscript Project is an ongoing effort to digitize, transcribe, and annotate archival manuscripts in Poqomam and Poqomchi', two closely related Mayan languages that together form the Poqom subgroup. Poqom is part of the K'iche'an branch of the Mayan language family, and speakers of Poqomam and Poqomchi' today live across east central Guatemala. The goal of this project is to document the oldest material available in both languages, in order to more fully understand the history and culture of both groups during the colonial period.</p>
+	
+	<p>The present collection includes manuscripts from around 1600, early in the colonial period, through about 1900, in the postcolonial period. They range from dictionaries, to pedagogical grammars, to religious texts, together totaling about 4,500 pages of material. Most seem to have been composed by Dominican friars of European descent who were familiar with the language, but there is at least one document (the <i>Título de Santa Ana</i>) that was clearly written by native speakers of Poqomchi'. All, however, provide valuable insight into earlier linguistic stages of Poqomam and Poqomchi', and into the process of religious colonization that took place during this period.</p>
+	
+	<h2>Personnel</h2>
+	
+	<p><span id="personnel">James Tandy</span> received his Ph.D. in Linguistics from the University of Texas at Austin in 2023. James's dissertation covered the history of perfect participle morphology in Mayan languages. Corpus work has always been an important part of his research, and data from Colonial Poqom played a role in the central argument of his dissertation. Post-graduation, he continues to study Colonial Poqom manuscripts and the early history of K'iche'an languages. James's homepage may be found <a href="/index.html">here</a>.</p>
+	
+	<h2>Acknowledgements</h2>
+	
+	<p>This project has been greatly improved by feedback from many other scholars, including Danny Law, Igor Vinogradov, Rusty Barrett, Mark Lauersdorf, Johanna Kramer, May Helena Plumb, David Mora-Marín, and Kelly Wright, among others. Of course, any shortcomings of this project are my own. I would also like to acknowledge the speakers of Poqomam and Poqomchi' whose languages are the central focus of this project.</p>
+</div>
+
+<br>
+<footer>
+	&#169; 2026 by <a href="/index.html">James Tandy</a>.
+</footer>
 </body>
 </html>

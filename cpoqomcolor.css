@@ -11,6 +11,10 @@ header {
 	color: #8c5f26;
 }
 
+footer {
+	color: #8c5f26;
+}
+
 .navbar {
 	color: black;
 	background-color: #d6a867;
@@ -34,7 +38,16 @@ ul.topnav li button:hover {
 ul.topnav li a:link {
 }
 
+footer {
+	color: black;
+	background-color: #d6a867;
+}
+
 div.mainbody h1, h2, h3 {
 	color: #8c5f26;
 	text-align: left;
+}
+
+article {
+	border-color: #d6a867;
 }
