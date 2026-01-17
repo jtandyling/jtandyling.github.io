@@ -43,6 +43,10 @@ footer {
 	background-color: #d6a867;
 }
 
+.footer a:link{
+	color: black;
+}
+
 div.mainbody h1, h2, h3 {
 	color: #8c5f26;
 	text-align: left;
