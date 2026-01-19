@@ -21,6 +21,8 @@ header h2 {
 }
 
 .navbar {
+	/* position: sticky;
+	top: 0; */
 	background-color: #004080;
 	justify-content: left;
 }
